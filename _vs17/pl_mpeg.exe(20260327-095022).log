@@ -1,0 +1,13 @@
+Booting...Mounting... <//./z/>(''),5Mounting... <//./z/>('E:\qwadro\repo\pl_mpeg-master\_vs17\qwd\'),5Mounting... <//./z/>('E:\qwadro\repo\pl_mpeg-master\_vs17\qwd\w32'),7Mounting... <//./z/>('E:\qwadro\repo\pl_mpeg-master\_vs17\qwd\w32d'),7Mounting... <//./c/>('C:\Windows\SysWow64'),5Loading... <e2coree.dll>Memory page Size: 4096HW threading: 2afxDrawSystem.c:882?AvxConfigureDrawSystem
+afxDrawSystem.c:1002?AvxEstablishDrawSystem
+pl_mpeg_player_qwadro.c:635?main
+pl_mpeg_player_qwadro.c:635?main
+((!1) || ((&dsys) && !(_AfxAssertObjects((1), (afxObject const*)(&dsys),(afxFcc_DSYS)))))
+afxEnvironment.c:575?AfxConfigureEnvironment
+afxEnvironment.c:618?AfxEstablishEnvironment
+pl_mpeg_player_qwadro.c:642?main
+pl_mpeg_player_qwadro.c:642?main
+((!1) || ((&env) && !(_AfxAssertObjects((1), (afxObject const*)(&env),(afxFcc_ENV)))))
+Opened GTAtitles.mpg - framerate: 29.970000, samplerate: 44100, duration: 88.721967afxWindow.c:802?AfxConfigureWindow
+afxWindow.c:802?AfxConfigureWindow
+((!1) || ((&env) && !(_AfxAssertObjects((1), (afxObject const*)(&env),(afxFcc_ENV)))))
