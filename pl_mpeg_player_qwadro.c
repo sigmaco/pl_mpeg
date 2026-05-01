@@ -533,7 +533,7 @@ void app_update(app_t *self) {
 
 	// Seek using mouse position
 	afxRect cursor;
-    AfxGetCursorPlacement(0, &cursor, NIL, NIL, NIL);
+    AfxGetCursorPlacement(0, NIL, FALSE, &cursor);
 	if (AfxIsMousePressed(0, AFX_LMB)) {
 		afxRect sr;
         AfxGetWindowRect(self->window, NIL, &sr);
